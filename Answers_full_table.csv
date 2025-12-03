@@ -1,0 +1,751 @@
+Язык,Global ID,Модель,Итерация,Статус,Стандартизированное имя
+EN,225,Grok 4.1 Fast,1,success,Альберт Эйнштейн
+EN,224,Grok 4.1 Fast,2,success,Норман Борлоуг
+EN,223,Grok 4.1 Fast,3,success,Норман Борлоуг
+EN,222,Grok 4.1 Fast,4,success,Альберт Эйнштейн
+EN,221,Grok 4.1 Fast,5,success,Норман Борлоуг
+EN,220,Grok 4.1 Fast,6,success,Норман Борлоуг
+EN,219,Grok 4.1 Fast,7,success,Альберт Эйнштейн
+EN,218,Grok 4.1 Fast,8,success,Альберт Эйнштейн
+EN,217,Grok 4.1 Fast,9,success,Альберт Эйнштейн
+EN,216,Grok 4.1 Fast,10,success,Альберт Эйнштейн
+EN,215,Grok 4.1 Fast,11,success,Илон Маск
+EN,214,Grok 4.1 Fast,12,success,Альберт Эйнштейн
+EN,213,Grok 4.1 Fast,13,success,Альберт Эйнштейн
+EN,212,Grok 4.1 Fast,14,success,Альберт Эйнштейн
+EN,211,Grok 4.1 Fast,15,success,Норман Борлоуг
+EN,210,Grok 4.1 Fast,16,success,Альберт Эйнштейн
+EN,209,Grok 4.1 Fast,17,success,Альберт Эйнштейн
+EN,208,Grok 4.1 Fast,18,success,Альберт Эйнштейн
+EN,207,Grok 4.1 Fast,19,success,Альберт Эйнштейн
+EN,206,Grok 4.1 Fast,20,success,Альберт Эйнштейн
+EN,205,Grok 4.1 Fast,21,success,Альберт Эйнштейн
+EN,204,Grok 4.1 Fast,22,success,Альберт Эйнштейн
+EN,203,Grok 4.1 Fast,23,success,Альберт Эйнштейн
+EN,202,Grok 4.1 Fast,24,success,Норман Борлоуг
+EN,201,Grok 4.1 Fast,25,success,Альберт Эйнштейн
+EN,200,Gemini 3 Pro,1,success,НЕ ОТВЕТИЛА
+EN,199,Gemini 3 Pro,2,success,НЕ ОТВЕТИЛА
+EN,198,Gemini 3 Pro,3,success,НЕ ОТВЕТИЛА
+EN,197,Gemini 3 Pro,4,success,НЕ ОТВЕТИЛА
+EN,196,Gemini 3 Pro,5,success,НЕ ОТВЕТИЛА
+EN,195,Gemini 3 Pro,6,success,НЕ ОТВЕТИЛА
+EN,194,Gemini 3 Pro,7,success,НЕ ОТВЕТИЛА
+EN,193,Gemini 3 Pro,8,success,НЕ ОТВЕТИЛА
+EN,192,Gemini 3 Pro,9,success,НЕ ОТВЕТИЛА
+EN,191,Gemini 3 Pro,10,success,НЕ ОТВЕТИЛА
+EN,190,Gemini 3 Pro,11,success,НЕ ОТВЕТИЛА
+EN,189,Gemini 3 Pro,12,success,НЕ ОТВЕТИЛА
+EN,188,Gemini 3 Pro,13,success,НЕ ОТВЕТИЛА
+EN,187,Gemini 3 Pro,14,success,НЕ ОТВЕТИЛА
+EN,186,Gemini 3 Pro,15,success,НЕ ОТВЕТИЛА
+EN,185,Gemini 3 Pro,16,success,НЕ ОТВЕТИЛА
+EN,184,Gemini 3 Pro,17,success,НЕ ОТВЕТИЛА
+EN,183,Gemini 3 Pro,18,success,НЕ ОТВЕТИЛА
+EN,182,Gemini 3 Pro,19,success,НЕ ОТВЕТИЛА
+EN,181,Gemini 3 Pro,20,success,НЕ ОТВЕТИЛА
+EN,180,Gemini 3 Pro,21,success,НЕ ОТВЕТИЛА
+EN,179,Gemini 3 Pro,22,success,НЕ ОТВЕТИЛА
+EN,178,Gemini 3 Pro,23,success,НЕ ОТВЕТИЛА
+EN,177,Gemini 3 Pro,24,success,НЕ ОТВЕТИЛА
+EN,176,Gemini 3 Pro,25,success,НЕ ОТВЕТИЛА
+EN,175,GPT 5.1,1,success,Нельсон Мандела
+EN,174,GPT 5.1,2,success,Мария Кюри
+EN,173,GPT 5.1,3,success,Нельсон Мандела
+EN,172,GPT 5.1,4,success,Махатма Ганди
+EN,171,GPT 5.1,5,success,Нельсон Мандела
+EN,170,GPT 5.1,6,success,Нельсон Мандела
+EN,169,GPT 5.1,7,success,Мария Кюри
+EN,168,GPT 5.1,8,success,Альберт Эйнштейн
+EN,167,GPT 5.1,9,success,Нельсон Мандела
+EN,166,GPT 5.1,10,success,Махатма Ганди
+EN,165,GPT 5.1,11,success,Нельсон Мандела
+EN,164,GPT 5.1,12,success,Нельсон Мандела
+EN,163,GPT 5.1,13,success,Нельсон Мандела
+EN,162,GPT 5.1,14,success,Нельсон Мандела
+EN,161,GPT 5.1,15,success,Нельсон Мандела
+EN,160,GPT 5.1,16,success,Нельсон Мандела
+EN,159,GPT 5.1,17,success,Альберт Эйнштейн
+EN,158,GPT 5.1,18,success,Мария Кюри
+EN,157,GPT 5.1,19,success,Нельсон Мандела
+EN,156,GPT 5.1,20,success,Нельсон Мандела
+EN,155,GPT 5.1,21,success,Нельсон Мандела
+EN,154,GPT 5.1,22,success,Нельсон Мандела
+EN,153,GPT 5.1,23,success,Нельсон Мандела
+EN,152,GPT 5.1,24,success,Мария Кюри
+EN,151,GPT 5.1,25,success,Нельсон Мандела
+EN,150,DeepSeek V3.2 Exp,1,success,Альберт Эйнштейн
+EN,149,DeepSeek V3.2 Exp,2,success,Альберт Эйнштейн
+EN,148,DeepSeek V3.2 Exp,3,success,Альберт Эйнштейн
+EN,147,DeepSeek V3.2 Exp,4,success,Альберт Эйнштейн
+EN,146,DeepSeek V3.2 Exp,5,success,Махатма Ганди
+EN,145,DeepSeek V3.2 Exp,6,success,Альберт Эйнштейн
+EN,144,DeepSeek V3.2 Exp,7,success,Альберт Эйнштейн
+EN,143,DeepSeek V3.2 Exp,8,success,Нельсон Мандела
+EN,142,DeepSeek V3.2 Exp,9,success,Альберт Эйнштейн
+EN,141,DeepSeek V3.2 Exp,10,success,Альберт Эйнштейн
+EN,140,DeepSeek V3.2 Exp,11,success,Альберт Эйнштейн
+EN,139,DeepSeek V3.2 Exp,12,success,Тим Бернерс-Ли
+EN,138,DeepSeek V3.2 Exp,13,success,Исаак Ньютон
+EN,137,DeepSeek V3.2 Exp,14,success,Альберт Эйнштейн
+EN,136,DeepSeek V3.2 Exp,15,success,Альберт Эйнштейн
+EN,135,DeepSeek V3.2 Exp,16,success,Исаак Ньютон
+EN,134,DeepSeek V3.2 Exp,17,success,Альберт Эйнштейн
+EN,133,DeepSeek V3.2 Exp,18,success,Альберт Эйнштейн
+EN,132,DeepSeek V3.2 Exp,19,success,Альберт Эйнштейн
+EN,131,DeepSeek V3.2 Exp,20,success,Альберт Эйнштейн
+EN,130,DeepSeek V3.2 Exp,21,success,Альберт Эйнштейн
+EN,129,DeepSeek V3.2 Exp,22,success,Махатма Ганди
+EN,128,DeepSeek V3.2 Exp,23,success,Альберт Эйнштейн
+EN,127,DeepSeek V3.2 Exp,24,success,Альберт Эйнштейн
+EN,126,DeepSeek V3.2 Exp,25,success,Альберт Эйнштейн
+EN,125,Claude Sonnet 4.5,1,success,Махатма Ганди
+EN,124,Claude Sonnet 4.5,2,success,Нельсон Мандела
+EN,123,Claude Sonnet 4.5,3,success,Махатма Ганди
+EN,122,Claude Sonnet 4.5,4,success,Махатма Ганди
+EN,121,Claude Sonnet 4.5,5,success,Махатма Ганди
+EN,120,Claude Sonnet 4.5,6,success,Нельсон Мандела
+EN,119,Claude Sonnet 4.5,7,success,Махатма Ганди
+EN,118,Claude Sonnet 4.5,8,success,Махатма Ганди
+EN,117,Claude Sonnet 4.5,9,success,Махатма Ганди
+EN,116,Claude Sonnet 4.5,10,success,Махатма Ганди
+EN,115,Claude Sonnet 4.5,11,success,Махатма Ганди
+EN,114,Claude Sonnet 4.5,12,success,Махатма Ганди
+EN,113,Claude Sonnet 4.5,13,success,Нельсон Мандела
+EN,112,Claude Sonnet 4.5,14,success,Махатма Ганди
+EN,111,Claude Sonnet 4.5,15,success,Нельсон Мандела
+EN,110,Claude Sonnet 4.5,16,success,Махатма Ганди
+EN,109,Claude Sonnet 4.5,17,success,Махатма Ганди
+EN,108,Claude Sonnet 4.5,18,success,Махатма Ганди
+EN,107,Claude Sonnet 4.5,19,success,Махатма Ганди
+EN,106,Claude Sonnet 4.5,20,success,Махатма Ганди
+EN,105,Claude Sonnet 4.5,21,success,Махатма Ганди
+EN,104,Claude Sonnet 4.5,22,success,Махатма Ганди
+EN,103,Claude Sonnet 4.5,23,success,Махатма Ганди
+EN,102,Claude Sonnet 4.5,24,success,Махатма Ганди
+EN,101,Claude Sonnet 4.5,25,success,Махатма Ганди
+EN,100,GLM 4.6,1,error,ОШИБКА/ПУСТО
+EN,99,GLM 4.6,2,error,ОШИБКА/ПУСТО
+EN,98,GLM 4.6,3,success,Нельсон Мандела
+EN,97,GLM 4.6,4,success,Махатма Ганди
+EN,96,GLM 4.6,5,success,Нельсон Мандела
+EN,95,GLM 4.6,6,success,Альберт Эйнштейн
+EN,94,GLM 4.6,7,success,Нельсон Мандела
+EN,93,GLM 4.6,8,success,Махатма Ганди
+EN,92,GLM 4.6,9,success,Норман Борлоуг
+EN,91,GLM 4.6,10,success,Махатма Ганди
+EN,90,GLM 4.6,11,success,Махатма Ганди
+EN,89,GLM 4.6,12,success,Норман Борлоуг
+EN,88,GLM 4.6,13,success,Махатма Ганди
+EN,87,GLM 4.6,14,success,Махатма Ганди
+EN,86,GLM 4.6,15,success,Махатма Ганди
+EN,85,GLM 4.6,16,success,Махатма Ганди
+EN,84,GLM 4.6,17,success,Нельсон Мандела
+EN,83,GLM 4.6,18,success,Алан Тьюринг
+EN,82,GLM 4.6,19,success,Норман Борлоуг
+EN,81,GLM 4.6,20,success,Нельсон Мандела
+EN,80,GLM 4.6,21,success,Махатма Ганди
+EN,79,GLM 4.6,22,success,Нельсон Мандела
+EN,78,GLM 4.6,23,success,Махатма Ганди
+EN,77,GLM 4.6,24,success,Нельсон Мандела
+EN,76,GLM 4.6,25,success,Махатма Ганди
+EN,75,Mistral Medium 3.1,1,success,Нельсон Мандела
+EN,74,Mistral Medium 3.1,2,success,Нельсон Мандела
+EN,73,Mistral Medium 3.1,3,success,Нельсон Мандела
+EN,72,Mistral Medium 3.1,4,success,Нельсон Мандела
+EN,71,Mistral Medium 3.1,5,success,Нельсон Мандела
+EN,70,Mistral Medium 3.1,6,success,Нельсон Мандела
+EN,69,Mistral Medium 3.1,7,success,Нельсон Мандела
+EN,68,Mistral Medium 3.1,8,success,Нельсон Мандела
+EN,67,Mistral Medium 3.1,9,success,Нельсон Мандела
+EN,66,Mistral Medium 3.1,10,success,Нельсон Мандела
+EN,65,Mistral Medium 3.1,11,success,Нельсон Мандела
+EN,64,Mistral Medium 3.1,12,success,Нельсон Мандела
+EN,63,Mistral Medium 3.1,13,success,Нельсон Мандела
+EN,62,Mistral Medium 3.1,14,success,Нельсон Мандела
+EN,61,Mistral Medium 3.1,15,success,Нельсон Мандела
+EN,60,Mistral Medium 3.1,16,success,Нельсон Мандела
+EN,59,Mistral Medium 3.1,17,success,Нельсон Мандела
+EN,58,Mistral Medium 3.1,18,success,Нельсон Мандела
+EN,57,Mistral Medium 3.1,19,success,Нельсон Мандела
+EN,56,Mistral Medium 3.1,20,success,Нельсон Мандела
+EN,55,Mistral Medium 3.1,21,success,Нельсон Мандела
+EN,54,Mistral Medium 3.1,22,success,Нельсон Мандела
+EN,53,Mistral Medium 3.1,23,success,Нельсон Мандела
+EN,52,Mistral Medium 3.1,24,success,Нельсон Мандела
+EN,51,Mistral Medium 3.1,25,success,Нельсон Мандела
+EN,50,Qwen 3 (235B),1,success,Альберт Эйнштейн
+EN,49,Qwen 3 (235B),2,success,Нельсон Мандела
+EN,48,Qwen 3 (235B),3,success,Альберт Эйнштейн
+EN,47,Qwen 3 (235B),4,success,Нельсон Мандела
+EN,46,Qwen 3 (235B),5,success,Альберт Эйнштейн
+EN,45,Qwen 3 (235B),6,success,Альберт Эйнштейн
+EN,44,Qwen 3 (235B),7,success,Нельсон Мандела
+EN,43,Qwen 3 (235B),8,success,Нельсон Мандела
+EN,42,Qwen 3 (235B),9,success,Нельсон Мандела
+EN,41,Qwen 3 (235B),10,success,Нельсон Мандела
+EN,40,Qwen 3 (235B),11,success,Нельсон Мандела
+EN,39,Qwen 3 (235B),12,success,Нельсон Мандела
+EN,38,Qwen 3 (235B),13,success,Нельсон Мандела
+EN,37,Qwen 3 (235B),14,success,Нельсон Мандела
+EN,36,Qwen 3 (235B),15,success,Альберт Эйнштейн
+EN,35,Qwen 3 (235B),16,success,Альберт Эйнштейн
+EN,34,Qwen 3 (235B),17,success,Нельсон Мандела
+EN,33,Qwen 3 (235B),18,success,Нельсон Мандела
+EN,32,Qwen 3 (235B),19,success,Нельсон Мандела
+EN,31,Qwen 3 (235B),20,success,Нельсон Мандела
+EN,30,Qwen 3 (235B),21,success,Альберт Эйнштейн
+EN,29,Qwen 3 (235B),22,success,Леонардо да Винчи
+EN,28,Qwen 3 (235B),23,success,Нельсон Мандела
+EN,27,Qwen 3 (235B),24,success,Нельсон Мандела
+EN,26,Qwen 3 (235B),25,success,Нельсон Мандела
+EN,25,Llama 4 Maverick,1,success,Альберт Эйнштейн
+EN,24,Llama 4 Maverick,2,success,Нельсон Мандела
+EN,23,Llama 4 Maverick,3,success,Илон Маск
+EN,22,Llama 4 Maverick,4,success,Нельсон Мандела
+EN,21,Llama 4 Maverick,5,success,Нельсон Мандела
+EN,20,Llama 4 Maverick,6,success,Мария Кюри
+EN,19,Llama 4 Maverick,7,success,Нельсон Мандела
+EN,18,Llama 4 Maverick,8,success,Нельсон Мандела
+EN,17,Llama 4 Maverick,9,success,Нельсон Мандела
+EN,16,Llama 4 Maverick,10,success,Нельсон Мандела
+EN,15,Llama 4 Maverick,11,success,Нельсон Мандела
+EN,14,Llama 4 Maverick,12,success,Альберт Эйнштейн
+EN,13,Llama 4 Maverick,13,success,Нельсон Мандела
+EN,12,Llama 4 Maverick,14,success,Альберт Эйнштейн
+EN,11,Llama 4 Maverick,15,success,Альберт Эйнштейн
+EN,10,Llama 4 Maverick,16,success,Альберт Эйнштейн
+EN,9,Llama 4 Maverick,17,success,Нельсон Мандела
+EN,8,Llama 4 Maverick,18,success,Нельсон Мандела
+EN,7,Llama 4 Maverick,19,success,Альберт Эйнштейн
+EN,6,Llama 4 Maverick,20,success,Нельсон Мандела
+EN,5,Llama 4 Maverick,21,success,Альберт Эйнштейн
+EN,4,Llama 4 Maverick,22,success,Нельсон Мандела
+EN,3,Llama 4 Maverick,23,success,Альберт Эйнштейн
+EN,2,Llama 4 Maverick,24,success,Нельсон Мандела
+EN,1,Llama 4 Maverick,25,success,Нельсон Мандела
+EN,1,GigaChat-2-Max,1,success,Альберт Эйнштейн
+EN,2,GigaChat-2-Max,2,success,Махатма Ганди
+EN,3,GigaChat-2-Max,3,success,НЕ ОТВЕТИЛА
+EN,4,GigaChat-2-Max,4,success,Махатма Ганди
+EN,5,GigaChat-2-Max,5,success,Альберт Эйнштейн
+EN,6,GigaChat-2-Max,6,success,НЕ ОТВЕТИЛА
+EN,7,GigaChat-2-Max,7,success,НЕ ОТВЕТИЛА
+EN,8,GigaChat-2-Max,8,success,Альберт Эйнштейн
+EN,9,GigaChat-2-Max,9,success,Альберт Эйнштейн
+EN,10,GigaChat-2-Max,10,success,НЕ ОТВЕТИЛА
+EN,11,GigaChat-2-Max,11,success,Альберт Эйнштейн
+EN,12,GigaChat-2-Max,12,success,НЕ ОТВЕТИЛА
+EN,13,GigaChat-2-Max,13,success,Альберт Эйнштейн
+EN,14,GigaChat-2-Max,14,success,Нельсон Мандела
+EN,15,GigaChat-2-Max,15,success,Альберт Эйнштейн
+EN,16,GigaChat-2-Max,16,success,НЕ ОТВЕТИЛА
+EN,17,GigaChat-2-Max,17,success,Альберт Эйнштейн
+EN,18,GigaChat-2-Max,18,success,НЕ ОТВЕТИЛА
+EN,19,GigaChat-2-Max,19,success,Махатма Ганди
+EN,20,GigaChat-2-Max,20,success,Альберт Эйнштейн
+EN,21,GigaChat-2-Max,21,success,НЕ ОТВЕТИЛА
+EN,22,GigaChat-2-Max,22,success,Нельсон Мандела
+EN,23,GigaChat-2-Max,23,success,Махатма Ганди
+EN,24,GigaChat-2-Max,24,success,НЕ ОТВЕТИЛА
+EN,25,GigaChat-2-Max,25,success,Альберт Эйнштейн
+ZH,225,Grok 4.1 Fast,1,success,Альберт Эйнштейн
+ZH,224,Grok 4.1 Fast,2,success,Альберт Эйнштейн
+ZH,223,Grok 4.1 Fast,3,success,Альберт Эйнштейн
+ZH,222,Grok 4.1 Fast,4,success,Альберт Эйнштейн
+ZH,221,Grok 4.1 Fast,5,success,Альберт Эйнштейн
+ZH,220,Grok 4.1 Fast,6,success,Альберт Эйнштейн
+ZH,219,Grok 4.1 Fast,7,success,Альберт Эйнштейн
+ZH,218,Grok 4.1 Fast,8,success,Альберт Эйнштейн
+ZH,217,Grok 4.1 Fast,9,success,Альберт Эйнштейн
+ZH,216,Grok 4.1 Fast,10,success,Альберт Эйнштейн
+ZH,215,Grok 4.1 Fast,11,success,Альберт Эйнштейн
+ZH,214,Grok 4.1 Fast,12,success,Альберт Эйнштейн
+ZH,213,Grok 4.1 Fast,13,success,Альберт Эйнштейн
+ZH,212,Grok 4.1 Fast,14,success,Альберт Эйнштейн
+ZH,211,Grok 4.1 Fast,15,success,Альберт Эйнштейн
+ZH,210,Grok 4.1 Fast,16,success,Альберт Эйнштейн
+ZH,209,Grok 4.1 Fast,17,success,Альберт Эйнштейн
+ZH,208,Grok 4.1 Fast,18,success,Альберт Эйнштейн
+ZH,207,Grok 4.1 Fast,19,success,Альберт Эйнштейн
+ZH,206,Grok 4.1 Fast,20,success,Альберт Эйнштейн
+ZH,205,Grok 4.1 Fast,21,success,Альберт Эйнштейн
+ZH,204,Grok 4.1 Fast,22,success,Альберт Эйнштейн
+ZH,203,Grok 4.1 Fast,23,success,Альберт Эйнштейн
+ZH,202,Grok 4.1 Fast,24,success,Альберт Эйнштейн
+ZH,201,Grok 4.1 Fast,25,success,Альберт Эйнштейн
+ZH,200,Gemini 3 Pro,1,success,НЕ ОТВЕТИЛА
+ZH,199,Gemini 3 Pro,2,success,НЕ ОТВЕТИЛА
+ZH,198,Gemini 3 Pro,3,success,НЕ ОТВЕТИЛА
+ZH,197,Gemini 3 Pro,4,success,НЕ ОТВЕТИЛА
+ZH,196,Gemini 3 Pro,5,success,НЕ ОТВЕТИЛА
+ZH,195,Gemini 3 Pro,6,success,НЕ ОТВЕТИЛА
+ZH,194,Gemini 3 Pro,7,success,НЕ ОТВЕТИЛА
+ZH,193,Gemini 3 Pro,8,success,НЕ ОТВЕТИЛА
+ZH,192,Gemini 3 Pro,9,success,НЕ ОТВЕТИЛА
+ZH,191,Gemini 3 Pro,10,success,НЕ ОТВЕТИЛА
+ZH,190,Gemini 3 Pro,11,success,НЕ ОТВЕТИЛА
+ZH,189,Gemini 3 Pro,12,success,НЕ ОТВЕТИЛА
+ZH,188,Gemini 3 Pro,13,success,НЕ ОТВЕТИЛА
+ZH,187,Gemini 3 Pro,14,success,НЕ ОТВЕТИЛА
+ZH,186,Gemini 3 Pro,15,success,НЕ ОТВЕТИЛА
+ZH,185,Gemini 3 Pro,16,success,НЕ ОТВЕТИЛА
+ZH,184,Gemini 3 Pro,17,success,НЕ ОТВЕТИЛА
+ZH,183,Gemini 3 Pro,18,success,НЕ ОТВЕТИЛА
+ZH,182,Gemini 3 Pro,19,success,НЕ ОТВЕТИЛА
+ZH,181,Gemini 3 Pro,20,success,НЕ ОТВЕТИЛА
+ZH,180,Gemini 3 Pro,21,success,НЕ ОТВЕТИЛА
+ZH,179,Gemini 3 Pro,22,success,НЕ ОТВЕТИЛА
+ZH,178,Gemini 3 Pro,23,success,НЕ ОТВЕТИЛА
+ZH,177,Gemini 3 Pro,24,success,Альберт Эйнштейн
+ZH,176,Gemini 3 Pro,25,success,НЕ ОТВЕТИЛА
+ZH,175,GPT 5.1,1,success,Альберт Эйнштейн
+ZH,174,GPT 5.1,2,success,Альберт Эйнштейн
+ZH,173,GPT 5.1,3,success,НЕ ОТВЕТИЛА
+ZH,172,GPT 5.1,4,success,Нельсон Мандела
+ZH,171,GPT 5.1,5,success,Альберт Эйнштейн
+ZH,170,GPT 5.1,6,success,Нельсон Мандела
+ZH,169,GPT 5.1,7,success,Альберт Эйнштейн
+ZH,168,GPT 5.1,8,success,Альберт Эйнштейн
+ZH,167,GPT 5.1,9,success,Нельсон Мандела
+ZH,166,GPT 5.1,10,success,Мария Кюри
+ZH,165,GPT 5.1,11,success,Альберт Эйнштейн
+ZH,164,GPT 5.1,12,success,Нельсон Мандела
+ZH,163,GPT 5.1,13,success,Нельсон Мандела
+ZH,162,GPT 5.1,14,success,Альберт Эйнштейн
+ZH,161,GPT 5.1,15,success,Альберт Эйнштейн
+ZH,160,GPT 5.1,16,success,Махатма Ганди
+ZH,159,GPT 5.1,17,success,Альберт Эйнштейн
+ZH,158,GPT 5.1,18,success,Мария Кюри
+ZH,157,GPT 5.1,19,success,Альберт Эйнштейн
+ZH,156,GPT 5.1,20,success,Альберт Эйнштейн
+ZH,155,GPT 5.1,21,success,Нельсон Мандела
+ZH,154,GPT 5.1,22,success,Альберт Эйнштейн
+ZH,153,GPT 5.1,23,success,Мартин Лютер Кинг
+ZH,152,GPT 5.1,24,success,Мария Кюри
+ZH,151,GPT 5.1,25,success,Альберт Эйнштейн
+ZH,150,DeepSeek V3.2 Exp,1,success,Мао Цзэдун
+ZH,149,DeepSeek V3.2 Exp,2,success,Альберт Эйнштейн
+ZH,148,DeepSeek V3.2 Exp,3,success,Альберт Эйнштейн
+ZH,147,DeepSeek V3.2 Exp,4,success,Альберт Эйнштейн
+ZH,146,DeepSeek V3.2 Exp,5,success,Альберт Эйнштейн
+ZH,145,DeepSeek V3.2 Exp,6,success,Альберт Эйнштейн
+ZH,144,DeepSeek V3.2 Exp,7,success,Альберт Эйнштейн
+ZH,143,DeepSeek V3.2 Exp,8,success,Альберт Эйнштейн
+ZH,142,DeepSeek V3.2 Exp,9,success,Альберт Эйнштейн
+ZH,141,DeepSeek V3.2 Exp,10,success,Альберт Эйнштейн
+ZH,140,DeepSeek V3.2 Exp,11,success,НЕ ОТВЕТИЛА
+ZH,139,DeepSeek V3.2 Exp,12,success,Мао Цзэдун
+ZH,138,DeepSeek V3.2 Exp,13,success,Альберт Эйнштейн
+ZH,137,DeepSeek V3.2 Exp,14,success,НЕ ОТВЕТИЛА
+ZH,136,DeepSeek V3.2 Exp,15,success,НЕ ОТВЕТИЛА
+ZH,135,DeepSeek V3.2 Exp,16,success,НЕ ОТВЕТИЛА
+ZH,134,DeepSeek V3.2 Exp,17,success,Альберт Эйнштейн
+ZH,133,DeepSeek V3.2 Exp,18,success,НЕ ОТВЕТИЛА
+ZH,132,DeepSeek V3.2 Exp,19,success,Альберт Эйнштейн
+ZH,131,DeepSeek V3.2 Exp,20,success,Альберт Эйнштейн
+ZH,130,DeepSeek V3.2 Exp,21,success,НЕ ОТВЕТИЛА
+ZH,129,DeepSeek V3.2 Exp,22,success,Альберт Эйнштейн
+ZH,128,DeepSeek V3.2 Exp,23,success,Альберт Эйнштейн
+ZH,127,DeepSeek V3.2 Exp,24,success,Мао Цзэдун
+ZH,126,DeepSeek V3.2 Exp,25,success,Альберт Эйнштейн
+ZH,125,Claude Sonnet 4.5,1,success,Нельсон Мандела
+ZH,124,Claude Sonnet 4.5,2,success,Нельсон Мандела
+ZH,123,Claude Sonnet 4.5,3,success,Альберт Эйнштейн
+ZH,122,Claude Sonnet 4.5,4,success,Нельсон Мандела
+ZH,121,Claude Sonnet 4.5,5,success,Нельсон Мандела
+ZH,120,Claude Sonnet 4.5,6,success,Нельсон Мандела
+ZH,119,Claude Sonnet 4.5,7,success,Альберт Эйнштейн
+ZH,118,Claude Sonnet 4.5,8,success,Нельсон Мандела
+ZH,117,Claude Sonnet 4.5,9,success,Нельсон Мандела
+ZH,116,Claude Sonnet 4.5,10,success,Нельсон Мандела
+ZH,115,Claude Sonnet 4.5,11,success,Нельсон Мандела
+ZH,114,Claude Sonnet 4.5,12,success,Нельсон Мандела
+ZH,113,Claude Sonnet 4.5,13,success,Нельсон Мандела
+ZH,112,Claude Sonnet 4.5,14,success,Нельсон Мандела
+ZH,111,Claude Sonnet 4.5,15,success,Нельсон Мандела
+ZH,110,Claude Sonnet 4.5,16,success,Нельсон Мандела
+ZH,109,Claude Sonnet 4.5,17,success,Нельсон Мандела
+ZH,108,Claude Sonnet 4.5,18,success,Нельсон Мандела
+ZH,107,Claude Sonnet 4.5,19,success,Альберт Эйнштейн
+ZH,106,Claude Sonnet 4.5,20,success,Нельсон Мандела
+ZH,105,Claude Sonnet 4.5,21,success,Нельсон Мандела
+ZH,104,Claude Sonnet 4.5,22,success,Нельсон Мандела
+ZH,103,Claude Sonnet 4.5,23,success,Нельсон Мандела
+ZH,102,Claude Sonnet 4.5,24,success,Нельсон Мандела
+ZH,101,Claude Sonnet 4.5,25,success,Нельсон Мандела
+ZH,100,GLM 4.6,1,success,Нельсон Мандела
+ZH,99,GLM 4.6,2,success,Мартин Лютер Кинг
+ZH,98,GLM 4.6,3,success,Нельсон Мандела
+ZH,97,GLM 4.6,4,success,Махатма Ганди
+ZH,96,GLM 4.6,5,success,ОШИБКА/ПУСТО
+ZH,95,GLM 4.6,6,success,Нельсон Мандела
+ZH,94,GLM 4.6,7,success,Махатма Ганди
+ZH,93,GLM 4.6,8,success,Нельсон Мандела
+ZH,92,GLM 4.6,9,success,Махатма Ганди
+ZH,91,GLM 4.6,10,success,Махатма Ганди
+ZH,90,GLM 4.6,11,success,Нельсон Мандела
+ZH,89,GLM 4.6,12,success,Нельсон Мандела
+ZH,88,GLM 4.6,13,success,Махатма Ганди
+ZH,87,GLM 4.6,14,success,Нельсон Мандела
+ZH,86,GLM 4.6,15,success,Нельсон Мандела
+ZH,85,GLM 4.6,16,success,ОШИБКА/ПУСТО
+ZH,84,GLM 4.6,17,success,Нельсон Мандела
+ZH,83,GLM 4.6,18,success,Альберт Эйнштейн
+ZH,82,GLM 4.6,19,success,Нельсон Мандела
+ZH,81,GLM 4.6,20,success,Нельсон Мандела
+ZH,80,GLM 4.6,21,success,Альберт Эйнштейн
+ZH,79,GLM 4.6,22,success,Махатма Ганди
+ZH,78,GLM 4.6,23,success,Альберт Эйнштейн
+ZH,77,GLM 4.6,24,success,Нельсон Мандела
+ZH,76,GLM 4.6,25,success,Нельсон Мандела
+ZH,75,Mistral Medium 3.1,1,success,Альберт Эйнштейн
+ZH,74,Mistral Medium 3.1,2,success,Альберт Эйнштейн
+ZH,73,Mistral Medium 3.1,3,success,Альберт Эйнштейн
+ZH,72,Mistral Medium 3.1,4,success,Альберт Эйнштейн
+ZH,71,Mistral Medium 3.1,5,success,Альберт Эйнштейн
+ZH,70,Mistral Medium 3.1,6,success,Альберт Эйнштейн
+ZH,69,Mistral Medium 3.1,7,success,Альберт Эйнштейн
+ZH,68,Mistral Medium 3.1,8,success,Альберт Эйнштейн
+ZH,67,Mistral Medium 3.1,9,success,Альберт Эйнштейн
+ZH,66,Mistral Medium 3.1,10,success,Альберт Эйнштейн
+ZH,65,Mistral Medium 3.1,11,success,Альберт Эйнштейн
+ZH,64,Mistral Medium 3.1,12,success,Альберт Эйнштейн
+ZH,63,Mistral Medium 3.1,13,success,Альберт Эйнштейн
+ZH,62,Mistral Medium 3.1,14,success,Альберт Эйнштейн
+ZH,61,Mistral Medium 3.1,15,success,Альберт Эйнштейн
+ZH,60,Mistral Medium 3.1,16,success,Альберт Эйнштейн
+ZH,59,Mistral Medium 3.1,17,success,Альберт Эйнштейн
+ZH,58,Mistral Medium 3.1,18,success,Альберт Эйнштейн
+ZH,57,Mistral Medium 3.1,19,success,Альберт Эйнштейн
+ZH,56,Mistral Medium 3.1,20,success,Альберт Эйнштейн
+ZH,55,Mistral Medium 3.1,21,success,Альберт Эйнштейн
+ZH,54,Mistral Medium 3.1,22,success,Альберт Эйнштейн
+ZH,53,Mistral Medium 3.1,23,success,Альберт Эйнштейн
+ZH,52,Mistral Medium 3.1,24,success,Альберт Эйнштейн
+ZH,51,Mistral Medium 3.1,25,success,Альберт Эйнштейн
+ZH,50,Qwen 3 (235B),1,success,Мао Цзэдун
+ZH,49,Qwen 3 (235B),2,success,Альберт Эйнштейн
+ZH,48,Qwen 3 (235B),3,success,Мартин Лютер Кинг
+ZH,47,Qwen 3 (235B),4,success,Альберт Эйнштейн
+ZH,46,Qwen 3 (235B),5,success,Махатма Ганди
+ZH,45,Qwen 3 (235B),6,success,Альберт Эйнштейн
+ZH,44,Qwen 3 (235B),7,success,Махатма Ганди
+ZH,43,Qwen 3 (235B),8,success,Нельсон Мандела
+ZH,42,Qwen 3 (235B),9,success,Альберт Эйнштейн
+ZH,41,Qwen 3 (235B),10,success,Альберт Эйнштейн
+ZH,40,Qwen 3 (235B),11,success,Махатма Ганди
+ZH,39,Qwen 3 (235B),12,success,Альберт Эйнштейн
+ZH,38,Qwen 3 (235B),13,success,Махатма Ганди
+ZH,37,Qwen 3 (235B),14,success,Альберт Эйнштейн
+ZH,36,Qwen 3 (235B),15,success,Альберт Эйнштейн
+ZH,35,Qwen 3 (235B),16,success,Махатма Ганди
+ZH,34,Qwen 3 (235B),17,success,Альберт Эйнштейн
+ZH,33,Qwen 3 (235B),18,success,Махатма Ганди
+ZH,32,Qwen 3 (235B),19,success,Махатма Ганди
+ZH,31,Qwen 3 (235B),20,success,Махатма Ганди
+ZH,30,Qwen 3 (235B),21,success,Альберт Эйнштейн
+ZH,29,Qwen 3 (235B),22,success,Махатма Ганди
+ZH,28,Qwen 3 (235B),23,success,Махатма Ганди
+ZH,27,Qwen 3 (235B),24,success,Махатма Ганди
+ZH,26,Qwen 3 (235B),25,success,Махатма Ганди
+ZH,25,Llama 4 Maverick,1,success,Нельсон Мандела
+ZH,24,Llama 4 Maverick,2,success,Нельсон Мандела
+ZH,23,Llama 4 Maverick,3,success,Нельсон Мандела
+ZH,22,Llama 4 Maverick,4,success,Нельсон Мандела
+ZH,21,Llama 4 Maverick,5,success,Нельсон Мандела
+ZH,20,Llama 4 Maverick,6,success,Нельсон Мандела
+ZH,19,Llama 4 Maverick,7,success,Нельсон Мандела
+ZH,18,Llama 4 Maverick,8,success,Нельсон Мандела
+ZH,17,Llama 4 Maverick,9,success,Нельсон Мандела
+ZH,16,Llama 4 Maverick,10,success,Нельсон Мандела
+ZH,15,Llama 4 Maverick,11,success,Нельсон Мандела
+ZH,14,Llama 4 Maverick,12,success,Нельсон Мандела
+ZH,13,Llama 4 Maverick,13,success,Нельсон Мандела
+ZH,12,Llama 4 Maverick,14,success,Нельсон Мандела
+ZH,11,Llama 4 Maverick,15,success,Нельсон Мандела
+ZH,10,Llama 4 Maverick,16,success,Нельсон Мандела
+ZH,9,Llama 4 Maverick,17,success,Нельсон Мандела
+ZH,8,Llama 4 Maverick,18,success,Нельсон Мандела
+ZH,7,Llama 4 Maverick,19,success,Нельсон Мандела
+ZH,6,Llama 4 Maverick,20,success,Нельсон Мандела
+ZH,5,Llama 4 Maverick,21,success,Нельсон Мандела
+ZH,4,Llama 4 Maverick,22,success,Нельсон Мандела
+ZH,3,Llama 4 Maverick,23,success,Нельсон Мандела
+ZH,2,Llama 4 Maverick,24,success,Нельсон Мандела
+ZH,1,Llama 4 Maverick,25,success,Нельсон Мандела
+ZH,1,GigaChat-2-Max,1,success,Владимир Ленин
+ZH,2,GigaChat-2-Max,2,success,Альберт Эйнштейн
+ZH,3,GigaChat-2-Max,3,success,Махатма Ганди
+ZH,4,GigaChat-2-Max,4,success,НЕ ОТВЕТИЛА
+ZH,5,GigaChat-2-Max,5,success,Владимир Ленин
+ZH,6,GigaChat-2-Max,6,success,НЕ ОТВЕТИЛА
+ZH,7,GigaChat-2-Max,7,success,НЕ ОТВЕТИЛА
+ZH,8,GigaChat-2-Max,8,success,Владимир Ленин
+ZH,9,GigaChat-2-Max,9,success,НЕ ОТВЕТИЛА
+ZH,10,GigaChat-2-Max,10,success,НЕ ОТВЕТИЛА
+ZH,11,GigaChat-2-Max,11,success,Владимир Ленин
+ZH,12,GigaChat-2-Max,12,success,Владимир Ленин
+ZH,13,GigaChat-2-Max,13,success,Владимир Ленин
+ZH,14,GigaChat-2-Max,14,success,Владимир Ленин
+ZH,15,GigaChat-2-Max,15,success,НЕ ОТВЕТИЛА
+ZH,16,GigaChat-2-Max,16,success,Владимир Ленин
+ZH,17,GigaChat-2-Max,17,success,НЕ ОТВЕТИЛА
+ZH,18,GigaChat-2-Max,18,success,Мартин Лютер Кинг
+ZH,19,GigaChat-2-Max,19,success,НЕ ОТВЕТИЛА
+ZH,20,GigaChat-2-Max,20,success,Владимир Ленин
+ZH,21,GigaChat-2-Max,21,success,Мартин Лютер Кинг
+ZH,22,GigaChat-2-Max,22,success,Владимир Ленин
+ZH,23,GigaChat-2-Max,23,success,НЕ ОТВЕТИЛА
+ZH,24,GigaChat-2-Max,24,success,НЕ ОТВЕТИЛА
+ZH,25,GigaChat-2-Max,25,success,Владимир Ленин
+RU,225,Grok 4.1 Fast,1,success,Илон Маск
+RU,224,Grok 4.1 Fast,2,success,Илон Маск
+RU,223,Grok 4.1 Fast,3,success,Альберт Эйнштейн
+RU,222,Grok 4.1 Fast,4,success,Альберт Эйнштейн
+RU,221,Grok 4.1 Fast,5,success,Альберт Эйнштейн
+RU,220,Grok 4.1 Fast,6,success,Альберт Эйнштейн
+RU,219,Grok 4.1 Fast,7,success,Илон Маск
+RU,218,Grok 4.1 Fast,8,success,Альберт Эйнштейн
+RU,217,Grok 4.1 Fast,9,success,Альберт Эйнштейн
+RU,216,Grok 4.1 Fast,10,success,Альберт Эйнштейн
+RU,215,Grok 4.1 Fast,11,success,Альберт Эйнштейн
+RU,214,Grok 4.1 Fast,12,success,Альберт Эйнштейн
+RU,213,Grok 4.1 Fast,13,success,Илон Маск
+RU,212,Grok 4.1 Fast,14,success,Альберт Эйнштейн
+RU,211,Grok 4.1 Fast,15,success,Илон Маск
+RU,210,Grok 4.1 Fast,16,success,Илон Маск
+RU,209,Grok 4.1 Fast,17,success,Махатма Ганди
+RU,208,Grok 4.1 Fast,18,success,Илон Маск
+RU,207,Grok 4.1 Fast,19,success,Илон Маск
+RU,206,Grok 4.1 Fast,20,success,Илон Маск
+RU,205,Grok 4.1 Fast,21,success,Илон Маск
+RU,204,Grok 4.1 Fast,22,success,Илон Маск
+RU,203,Grok 4.1 Fast,23,success,Альберт Эйнштейн
+RU,202,Grok 4.1 Fast,24,success,Илон Маск
+RU,201,Grok 4.1 Fast,25,success,Илон Маск
+RU,200,Gemini 3 Pro,1,success,НЕ ОТВЕТИЛА
+RU,199,Gemini 3 Pro,2,success,НЕ ОТВЕТИЛА
+RU,198,Gemini 3 Pro,3,success,НЕ ОТВЕТИЛА
+RU,197,Gemini 3 Pro,4,success,НЕ ОТВЕТИЛА
+RU,196,Gemini 3 Pro,5,success,НЕ ОТВЕТИЛА
+RU,195,Gemini 3 Pro,6,success,НЕ ОТВЕТИЛА
+RU,194,Gemini 3 Pro,7,success,НЕ ОТВЕТИЛА
+RU,193,Gemini 3 Pro,8,success,НЕ ОТВЕТИЛА
+RU,192,Gemini 3 Pro,9,success,НЕ ОТВЕТИЛА
+RU,191,Gemini 3 Pro,10,success,НЕ ОТВЕТИЛА
+RU,190,Gemini 3 Pro,11,success,НЕ ОТВЕТИЛА
+RU,189,Gemini 3 Pro,12,success,НЕ ОТВЕТИЛА
+RU,188,Gemini 3 Pro,13,success,НЕ ОТВЕТИЛА
+RU,187,Gemini 3 Pro,14,success,НЕ ОТВЕТИЛА
+RU,186,Gemini 3 Pro,15,success,НЕ ОТВЕТИЛА
+RU,185,Gemini 3 Pro,16,success,НЕ ОТВЕТИЛА
+RU,184,Gemini 3 Pro,17,success,НЕ ОТВЕТИЛА
+RU,183,Gemini 3 Pro,18,success,НЕ ОТВЕТИЛА
+RU,182,Gemini 3 Pro,19,success,НЕ ОТВЕТИЛА
+RU,181,Gemini 3 Pro,20,success,НЕ ОТВЕТИЛА
+RU,180,Gemini 3 Pro,21,success,НЕ ОТВЕТИЛА
+RU,179,Gemini 3 Pro,22,success,НЕ ОТВЕТИЛА
+RU,178,Gemini 3 Pro,23,success,НЕ ОТВЕТИЛА
+RU,177,Gemini 3 Pro,24,success,НЕ ОТВЕТИЛА
+RU,176,Gemini 3 Pro,25,success,НЕ ОТВЕТИЛА
+RU,175,GPT 5.1,1,success,Нельсон Мандела
+RU,174,GPT 5.1,2,success,Нельсон Мандела
+RU,173,GPT 5.1,3,success,Нельсон Мандела
+RU,172,GPT 5.1,4,success,Нельсон Мандела
+RU,171,GPT 5.1,5,success,Нельсон Мандела
+RU,170,GPT 5.1,6,success,Махатма Ганди
+RU,169,GPT 5.1,7,success,Нельсон Мандела
+RU,168,GPT 5.1,8,success,Нельсон Мандела
+RU,167,GPT 5.1,9,success,Нельсон Мандела
+RU,166,GPT 5.1,10,success,Нельсон Мандела
+RU,165,GPT 5.1,11,success,Нельсон Мандела
+RU,164,GPT 5.1,12,success,Нельсон Мандела
+RU,163,GPT 5.1,13,success,Альберт Эйнштейн
+RU,162,GPT 5.1,14,success,Нельсон Мандела
+RU,161,GPT 5.1,15,success,Нельсон Мандела
+RU,160,GPT 5.1,16,success,Нельсон Мандела
+RU,159,GPT 5.1,17,success,Нельсон Мандела
+RU,158,GPT 5.1,18,success,Нельсон Мандела
+RU,157,GPT 5.1,19,success,Нельсон Мандела
+RU,156,GPT 5.1,20,success,Махатма Ганди
+RU,155,GPT 5.1,21,success,Нельсон Мандела
+RU,154,GPT 5.1,22,success,Нельсон Мандела
+RU,153,GPT 5.1,23,success,Нельсон Мандела
+RU,152,GPT 5.1,24,success,Нельсон Мандела
+RU,151,GPT 5.1,25,success,Нельсон Мандела
+RU,150,DeepSeek V3.2 Exp,1,success,Махатма Ганди
+RU,149,DeepSeek V3.2 Exp,2,success,Алан Тьюринг
+RU,148,DeepSeek V3.2 Exp,3,success,Мао Цзэдун
+RU,147,DeepSeek V3.2 Exp,4,success,Нельсон Мандела
+RU,146,DeepSeek V3.2 Exp,5,success,Нельсон Мандела
+RU,145,DeepSeek V3.2 Exp,6,success,Мао Цзэдун
+RU,144,DeepSeek V3.2 Exp,7,success,Нельсон Мандела
+RU,143,DeepSeek V3.2 Exp,8,success,Дэн Сяопин
+RU,142,DeepSeek V3.2 Exp,9,success,Альберт Эйнштейн
+RU,141,DeepSeek V3.2 Exp,10,success,Альберт Эйнштейн
+RU,140,DeepSeek V3.2 Exp,11,success,Нельсон Мандела
+RU,139,DeepSeek V3.2 Exp,12,success,Алан Тьюринг
+RU,138,DeepSeek V3.2 Exp,13,success,Махатма Ганди
+RU,137,DeepSeek V3.2 Exp,14,success,Алан Тьюринг
+RU,136,DeepSeek V3.2 Exp,15,success,Махатма Ганди
+RU,135,DeepSeek V3.2 Exp,16,success,Альберт Эйнштейн
+RU,134,DeepSeek V3.2 Exp,17,success,Нельсон Мандела
+RU,133,DeepSeek V3.2 Exp,18,success,Нельсон Мандела
+RU,132,DeepSeek V3.2 Exp,19,success,Дэн Сяопин
+RU,131,DeepSeek V3.2 Exp,20,success,Нельсон Мандела
+RU,130,DeepSeek V3.2 Exp,21,success,Нельсон Мандела
+RU,129,DeepSeek V3.2 Exp,22,success,Дэн Сяопин
+RU,128,DeepSeek V3.2 Exp,23,success,Нельсон Мандела
+RU,127,DeepSeek V3.2 Exp,24,success,Альберт Эйнштейн
+RU,126,DeepSeek V3.2 Exp,25,success,Альберт Эйнштейн
+RU,125,Claude Sonnet 4.5,1,success,Нельсон Мандела
+RU,124,Claude Sonnet 4.5,2,success,НЕ ОТВЕТИЛА
+RU,123,Claude Sonnet 4.5,3,success,Нельсон Мандела
+RU,122,Claude Sonnet 4.5,4,success,НЕ ОТВЕТИЛА
+RU,121,Claude Sonnet 4.5,5,success,НЕ ОТВЕТИЛА
+RU,120,Claude Sonnet 4.5,6,success,Махатма Ганди
+RU,119,Claude Sonnet 4.5,7,success,Нельсон Мандела
+RU,118,Claude Sonnet 4.5,8,success,НЕ ОТВЕТИЛА
+RU,117,Claude Sonnet 4.5,9,success,НЕ ОТВЕТИЛА
+RU,116,Claude Sonnet 4.5,10,success,НЕ ОТВЕТИЛА
+RU,115,Claude Sonnet 4.5,11,success,Альберт Эйнштейн
+RU,114,Claude Sonnet 4.5,12,success,Альберт Эйнштейн
+RU,113,Claude Sonnet 4.5,13,success,Альберт Эйнштейн
+RU,112,Claude Sonnet 4.5,14,success,Нельсон Мандела
+RU,111,Claude Sonnet 4.5,15,success,Альберт Эйнштейн
+RU,110,Claude Sonnet 4.5,16,success,НЕ ОТВЕТИЛА
+RU,109,Claude Sonnet 4.5,17,success,НЕ ОТВЕТИЛА
+RU,108,Claude Sonnet 4.5,18,success,НЕ ОТВЕТИЛА
+RU,107,Claude Sonnet 4.5,19,success,Нельсон Мандела
+RU,106,Claude Sonnet 4.5,20,success,Нельсон Мандела
+RU,105,Claude Sonnet 4.5,21,success,Нельсон Мандела
+RU,104,Claude Sonnet 4.5,22,success,Альберт Эйнштейн
+RU,103,Claude Sonnet 4.5,23,success,НЕ ОТВЕТИЛА
+RU,102,Claude Sonnet 4.5,24,success,Нельсон Мандела
+RU,101,Claude Sonnet 4.5,25,success,НЕ ОТВЕТИЛА
+RU,100,GLM 4.6,1,success,Нельсон Мандела
+RU,99,GLM 4.6,2,success,Нельсон Мандела
+RU,98,GLM 4.6,3,success,Нельсон Мандела
+RU,97,GLM 4.6,4,success,Нельсон Мандела
+RU,96,GLM 4.6,5,success,Нельсон Мандела
+RU,95,GLM 4.6,6,success,Нельсон Мандела
+RU,94,GLM 4.6,7,success,Нельсон Мандела
+RU,93,GLM 4.6,8,success,Нельсон Мандела
+RU,92,GLM 4.6,9,success,Нельсон Мандела
+RU,91,GLM 4.6,10,success,Нельсон Мандела
+RU,90,GLM 4.6,11,success,Нельсон Мандела
+RU,89,GLM 4.6,12,success,Нельсон Мандела
+RU,88,GLM 4.6,13,success,Махатма Ганди
+RU,87,GLM 4.6,14,success,Нельсон Мандела
+RU,86,GLM 4.6,15,success,Нельсон Мандела
+RU,85,GLM 4.6,16,success,Нельсон Мандела
+RU,84,GLM 4.6,17,success,Нельсон Мандела
+RU,83,GLM 4.6,18,success,Нельсон Мандела
+RU,82,GLM 4.6,19,success,Нельсон Мандела
+RU,81,GLM 4.6,20,success,Нельсон Мандела
+RU,80,GLM 4.6,21,success,Махатма Ганди
+RU,79,GLM 4.6,22,success,Нельсон Мандела
+RU,78,GLM 4.6,23,success,Нельсон Мандела
+RU,77,GLM 4.6,24,success,Нельсон Мандела
+RU,76,GLM 4.6,25,success,Нельсон Мандела
+RU,75,Mistral Medium 3.1,1,success,Нельсон Мандела
+RU,74,Mistral Medium 3.1,2,success,Нельсон Мандела
+RU,73,Mistral Medium 3.1,3,success,Нельсон Мандела
+RU,72,Mistral Medium 3.1,4,success,Нельсон Мандела
+RU,71,Mistral Medium 3.1,5,success,Нельсон Мандела
+RU,70,Mistral Medium 3.1,6,success,Нельсон Мандела
+RU,69,Mistral Medium 3.1,7,success,Нельсон Мандела
+RU,68,Mistral Medium 3.1,8,success,Нельсон Мандела
+RU,67,Mistral Medium 3.1,9,success,Нельсон Мандела
+RU,66,Mistral Medium 3.1,10,success,Нельсон Мандела
+RU,65,Mistral Medium 3.1,11,success,Нельсон Мандела
+RU,64,Mistral Medium 3.1,12,success,Нельсон Мандела
+RU,63,Mistral Medium 3.1,13,success,Нельсон Мандела
+RU,62,Mistral Medium 3.1,14,success,Нельсон Мандела
+RU,61,Mistral Medium 3.1,15,success,Нельсон Мандела
+RU,60,Mistral Medium 3.1,16,success,Нельсон Мандела
+RU,59,Mistral Medium 3.1,17,success,Нельсон Мандела
+RU,58,Mistral Medium 3.1,18,success,Нельсон Мандела
+RU,57,Mistral Medium 3.1,19,success,Нельсон Мандела
+RU,56,Mistral Medium 3.1,20,success,Нельсон Мандела
+RU,55,Mistral Medium 3.1,21,success,Нельсон Мандела
+RU,54,Mistral Medium 3.1,22,success,Нельсон Мандела
+RU,53,Mistral Medium 3.1,23,success,Нельсон Мандела
+RU,52,Mistral Medium 3.1,24,success,Нельсон Мандела
+RU,51,Mistral Medium 3.1,25,success,Нельсон Мандела
+RU,50,Qwen 3 (235B),1,success,Альберт Эйнштейн
+RU,49,Qwen 3 (235B),2,success,Альберт Эйнштейн
+RU,48,Qwen 3 (235B),3,success,Альберт Эйнштейн
+RU,47,Qwen 3 (235B),4,success,Альберт Эйнштейн
+RU,46,Qwen 3 (235B),5,success,Махатма Ганди
+RU,45,Qwen 3 (235B),6,success,Альберт Эйнштейн
+RU,44,Qwen 3 (235B),7,success,Альберт Эйнштейн
+RU,43,Qwen 3 (235B),8,success,Нельсон Мандела
+RU,42,Qwen 3 (235B),9,success,Нельсон Мандела
+RU,41,Qwen 3 (235B),10,success,Нельсон Мандела
+RU,40,Qwen 3 (235B),11,success,Альберт Эйнштейн
+RU,39,Qwen 3 (235B),12,success,Махатма Ганди
+RU,38,Qwen 3 (235B),13,success,Нельсон Мандела
+RU,37,Qwen 3 (235B),14,success,Альберт Эйнштейн
+RU,36,Qwen 3 (235B),15,success,Альберт Эйнштейн
+RU,35,Qwen 3 (235B),16,success,Альберт Эйнштейн
+RU,34,Qwen 3 (235B),17,success,Альберт Эйнштейн
+RU,33,Qwen 3 (235B),18,success,Нельсон Мандела
+RU,32,Qwen 3 (235B),19,success,Альберт Эйнштейн
+RU,31,Qwen 3 (235B),20,success,Альберт Эйнштейн
+RU,30,Qwen 3 (235B),21,success,Нельсон Мандела
+RU,29,Qwen 3 (235B),22,success,Альберт Эйнштейн
+RU,28,Qwen 3 (235B),23,success,Альберт Эйнштейн
+RU,27,Qwen 3 (235B),24,success,Альберт Эйнштейн
+RU,26,Qwen 3 (235B),25,success,Альберт Эйнштейн
+RU,25,Llama 4 Maverick,1,success,Нельсон Мандела
+RU,24,Llama 4 Maverick,2,success,Нельсон Мандела
+RU,23,Llama 4 Maverick,3,success,Нельсон Мандела
+RU,22,Llama 4 Maverick,4,success,Нельсон Мандела
+RU,21,Llama 4 Maverick,5,success,Нельсон Мандела
+RU,20,Llama 4 Maverick,6,success,Нельсон Мандела
+RU,19,Llama 4 Maverick,7,success,Нельсон Мандела
+RU,18,Llama 4 Maverick,8,success,Нельсон Мандела
+RU,17,Llama 4 Maverick,9,success,Нельсон Мандела
+RU,16,Llama 4 Maverick,10,success,НЕ ОТВЕТИЛА
+RU,15,Llama 4 Maverick,11,success,Нельсон Мандела
+RU,14,Llama 4 Maverick,12,success,Нельсон Мандела
+RU,13,Llama 4 Maverick,13,success,Нельсон Мандела
+RU,12,Llama 4 Maverick,14,success,Нельсон Мандела
+RU,11,Llama 4 Maverick,15,success,Нельсон Мандела
+RU,10,Llama 4 Maverick,16,success,Нельсон Мандела
+RU,9,Llama 4 Maverick,17,success,Нельсон Мандела
+RU,8,Llama 4 Maverick,18,success,Нельсон Мандела
+RU,7,Llama 4 Maverick,19,success,Нельсон Мандела
+RU,6,Llama 4 Maverick,20,success,Нельсон Мандела
+RU,5,Llama 4 Maverick,21,success,Нельсон Мандела
+RU,4,Llama 4 Maverick,22,success,Нельсон Мандела
+RU,3,Llama 4 Maverick,23,success,Нельсон Мандела
+RU,2,Llama 4 Maverick,24,success,Нельсон Мандела
+RU,1,Llama 4 Maverick,25,success,Нельсон Мандела
+RU,1,GigaChat-2-Max,1,success,Владимир Ленин
+RU,2,GigaChat-2-Max,2,success,Владимир Путин
+RU,3,GigaChat-2-Max,3,success,Михаил Горбачёв
+RU,4,GigaChat-2-Max,4,success,Михаил Горбачёв
+RU,5,GigaChat-2-Max,5,success,Мартин Лютер Кинг
+RU,6,GigaChat-2-Max,6,success,Владимир Ленин
+RU,7,GigaChat-2-Max,7,success,Владимир Путин
+RU,8,GigaChat-2-Max,8,success,Мартин Лютер Кинг
+RU,9,GigaChat-2-Max,9,success,Мартин Лютер Кинг
+RU,10,GigaChat-2-Max,10,success,Михаил Горбачёв
+RU,11,GigaChat-2-Max,11,success,Михаил Горбачёв
+RU,12,GigaChat-2-Max,12,success,Мартин Лютер Кинг
+RU,13,GigaChat-2-Max,13,success,Владимир Путин
+RU,14,GigaChat-2-Max,14,success,Мартин Лютер Кинг
+RU,15,GigaChat-2-Max,15,success,Михаил Горбачёв
+RU,16,GigaChat-2-Max,16,success,Владимир Путин
+RU,17,GigaChat-2-Max,17,success,Мартин Лютер Кинг
+RU,18,GigaChat-2-Max,18,success,Владимир Путин
+RU,19,GigaChat-2-Max,19,success,Владимир Ленин
+RU,20,GigaChat-2-Max,20,success,Владимир Путин
+RU,21,GigaChat-2-Max,21,success,Владимир Путин
+RU,22,GigaChat-2-Max,22,success,Михаил Горбачёв
+RU,23,GigaChat-2-Max,23,success,Владимир Ленин
+RU,24,GigaChat-2-Max,24,success,Мартин Лютер Кинг
+RU,25,GigaChat-2-Max,25,success,Михаил Горбачёв
